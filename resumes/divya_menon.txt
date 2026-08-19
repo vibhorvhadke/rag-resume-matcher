@@ -1,0 +1,10 @@
+
+Name: Divya Menon
+Education: B.Tech Computer Science, Amrita University, 2018
+
+Experience:
+Frontend Developer at Zoho (2019-2022) - 3 years
+Senior Frontend Engineer at Freshworks (2022-2024) - 2 years
+Worked on React, Vue.js, JavaScript, CSS, HTML
+
+Skills: React, Vue.js, JavaScript, CSS, HTML, TypeScript

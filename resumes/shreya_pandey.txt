@@ -1,0 +1,9 @@
+
+Name: Shreya Pandey
+Education: M.Tech Artificial Intelligence, IIT Hyderabad, 2021
+
+Experience:
+AI Engineer at Google (2021-2024) - 3 years
+Worked on Python, LangChain, LLMs, RAG Systems, Vector Databases
+
+Skills: Python, LangChain, LLMs, RAG, Vector Databases, PyTorch

@@ -1,0 +1,10 @@
+
+Name: Meera Iyer
+Education: M.Tech Computer Science, IIT Kanpur, 2019
+
+Experience:
+NLP Engineer at Amazon (2019-2023) - 4 years
+Senior NLP Scientist at Adobe (2023-2024) - 1 year
+Worked on Python, NLP, Transformers, spaCy, BERT
+
+Skills: Python, NLP, Transformers, spaCy, BERT, PyTorch

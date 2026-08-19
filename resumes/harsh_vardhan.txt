@@ -1,0 +1,10 @@
+
+Name: Harsh Vardhan
+Education: B.Tech Computer Science, IIIT Delhi, 2016
+
+Experience:
+Security Engineer at Paytm (2017-2020) - 3 years
+Senior Security Engineer at Razorpay (2020-2024) - 4 years
+Worked on Python, Cybersecurity, Penetration Testing, AWS
+
+Skills: Python, Cybersecurity, Penetration Testing, AWS, Network Security

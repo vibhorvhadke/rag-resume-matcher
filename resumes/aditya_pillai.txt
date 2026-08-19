@@ -1,0 +1,10 @@
+
+Name: Aditya Pillai
+Education: M.S. Computer Science, IIT Bombay, 2016
+
+Experience:
+Software Architect at Infosys (2017-2021) - 4 years
+Principal Engineer at Accenture (2021-2024) - 3 years
+Worked on Java, Microservices, System Design, AWS
+
+Skills: Java, Microservices, System Design, AWS, Spring Boot, Kubernetes

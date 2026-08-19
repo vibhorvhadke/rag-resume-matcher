@@ -1,0 +1,9 @@
+
+Name: John Doe
+Education: B.Tech Computer Science, IIT Delhi, 2018
+
+Experience:
+Software Engineer at TCS (2019-2023) - 4 years
+Worked on Python, Machine Learning, Django, REST APIs
+
+Skills: Python, Machine Learning, SQL, Django, Git

@@ -1,0 +1,10 @@
+
+Name: Deepak Yadav
+Education: B.E. Computer Engineering, Pune University, 2014
+
+Experience:
+Backend Developer at Infosys (2015-2019) - 4 years
+Lead Backend Developer at TCS (2019-2024) - 5 years
+Worked on Java, Spring Boot, Kafka, Redis, Microservices
+
+Skills: Java, Spring Boot, Kafka, Redis, Microservices, PostgreSQL

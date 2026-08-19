@@ -1,0 +1,595 @@
+{
+  "jd_ml_engineer": {
+    "job_description": "Looking for a Machine Learning Engineer with strong Python and TensorFlow experience. Must have worked on deep learning models and have at least 3 years of experience.",
+    "top_matches": [
+      {
+        "candidate_name": "Anjali Desai",
+        "resume_path": "resumes/anjali_desai.txt",
+        "education": "M.Tech Artificial Intelligence, IIT Madras, 2020",
+        "experience_years": 4,
+        "match_score": 45.8,
+        "matched_skills": [
+          "Python",
+          "TensorFlow"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nMachine Learning Engineer at Microsoft (2020-2024) - 4 years\nWorked on Python, TensorFlow, Computer Vision, Deep Learning",
+          "Skills: Python, TensorFlow, Computer Vision, Deep Learning, OpenCV, PyTorch"
+        ],
+        "reasoning": "Semantic similarity: 61.5%, Keyword match: 2/22 critical skills (Python, TensorFlow)"
+      },
+      {
+        "candidate_name": "Nikhil Bansal",
+        "resume_path": "resumes/nikhil_bansal.txt",
+        "education": "B.Tech Computer Science, MNIT Jaipur, 2018",
+        "experience_years": 3,
+        "match_score": 43.89,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nMachine Learning Engineer at Ola (2019-2022) - 3 years\nSenior ML Engineer at Uber (2022-2024) - 2 years\nWorked on Python, Scikit-learn, XGBoost, Machine Learning"
+        ],
+        "reasoning": "Semantic similarity: 60.7%, Keyword match: 1/22 critical skills (Python)"
+      },
+      {
+        "candidate_name": "Riya Chatterjee",
+        "resume_path": "resumes/riya_chatterjee.txt",
+        "education": "M.Tech Data Science, IIT Guwahati, 2020",
+        "experience_years": 3,
+        "match_score": 42.26,
+        "matched_skills": [
+          "Python",
+          "TensorFlow"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nData Scientist at Myntra (2020-2023) - 3 years\nSenior Data Scientist at Nykaa (2023-2024) - 1 year\nWorked on Python, TensorFlow, Deep Learning, Recommendation Systems",
+          "Skills: Python, TensorFlow, Deep Learning, Machine Learning, SQL, Spark"
+        ],
+        "reasoning": "Semantic similarity: 56.5%, Keyword match: 2/22 critical skills (Python, TensorFlow)"
+      },
+      {
+        "candidate_name": "Shreya Pandey",
+        "resume_path": "resumes/shreya_pandey.txt",
+        "education": "M.Tech Artificial Intelligence, IIT Hyderabad, 2021",
+        "experience_years": 3,
+        "match_score": 41.24,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nAI Engineer at Google (2021-2024) - 3 years\nWorked on Python, LangChain, LLMs, RAG Systems, Vector Databases"
+        ],
+        "reasoning": "Semantic similarity: 57.0%, Keyword match: 1/22 critical skills (Python)"
+      },
+      {
+        "candidate_name": "Sneha Reddy",
+        "resume_path": "resumes/sneha_reddy.txt",
+        "education": "M.Tech Machine Learning, IIIT Hyderabad, 2019",
+        "experience_years": 4,
+        "match_score": 40.59,
+        "matched_skills": [
+          "Python",
+          "TensorFlow"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nData Scientist at Amazon (2019-2023) - 4 years\nLead Data Scientist at Flipkart (2023-2024) - 1 year\nWorked on Python, TensorFlow, Scikit-learn, ML pipelines"
+        ],
+        "reasoning": "Semantic similarity: 54.1%, Keyword match: 2/22 critical skills (Python, TensorFlow)"
+      },
+      {
+        "candidate_name": "Jane Smith",
+        "resume_path": "resumes/jane_smith.txt",
+        "education": "M.Tech Data Science, IIT Bombay, 2020",
+        "experience_years": 4,
+        "match_score": 40.41,
+        "matched_skills": [
+          "Python",
+          "TensorFlow"
+        ],
+        "relevant_excerpts": [
+          "Skills: Python, TensorFlow, PyTorch, Machine Learning, Statistics"
+        ],
+        "reasoning": "Semantic similarity: 53.8%, Keyword match: 2/22 critical skills (Python, TensorFlow)"
+      },
+      {
+        "candidate_name": "John Doe",
+        "resume_path": "resumes/john_doe.txt",
+        "education": "B.Tech Computer Science, IIT Delhi, 2018",
+        "experience_years": 4,
+        "match_score": 39.48,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nSoftware Engineer at TCS (2019-2023) - 4 years\nWorked on Python, Machine Learning, Django, REST APIs"
+        ],
+        "reasoning": "Semantic similarity: 54.4%, Keyword match: 1/22 critical skills (Python)"
+      },
+      {
+        "candidate_name": "Priya Sharma",
+        "resume_path": "resumes/priya_sharma.txt",
+        "education": "M.Sc. Artificial Intelligence, IISc Bangalore, 2021",
+        "experience_years": 3,
+        "match_score": 39.06,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nAI Research Engineer at Google (2021-2024) - 3 years\nWorked on NLP, Transformers, PyTorch, LLMs"
+        ],
+        "reasoning": "Semantic similarity: 53.8%, Keyword match: 1/22 critical skills (Python)"
+      }
+    ]
+  },
+  "jd_backend_java": {
+    "job_description": "Hiring a Backend Developer with Java and Spring Boot expertise. Experience with Microservices and Kafka is required. Minimum 4 years of experience preferred.",
+    "top_matches": [
+      {
+        "candidate_name": "Amit Kumar",
+        "resume_path": "resumes/amit_kumar.txt",
+        "education": "B.E. Computer Engineering, Pune University, 2015",
+        "experience_years": 4,
+        "match_score": 49.5,
+        "matched_skills": [
+          "Java",
+          "Microservices",
+          "Kafka"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nBackend Developer at Wipro (2016-2020) - 4 years\nSenior Backend Developer at Accenture (2020-2024) - 4 years\nWorked on Java, Spring Boot, Microservices, Kafka",
+          "Skills: Java, Spring Boot, Microservices, Kafka, SQL, Docker"
+        ],
+        "reasoning": "Semantic similarity: 64.0%, Keyword match: 3/19 critical skills (Java, Microservices, Kafka)"
+      },
+      {
+        "candidate_name": "Karan Malhotra",
+        "resume_path": "resumes/karan_malhotra.txt",
+        "education": "B.E. Computer Engineering, Mumbai University, 2013",
+        "experience_years": 4,
+        "match_score": 48.2,
+        "matched_skills": [
+          "Java",
+          "Kafka",
+          "Microservices"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nBackend Developer at Persistent Systems (2014-2018) - 4 years\nLead Backend Engineer at Oracle (2018-2024) - 6 years\nWorked on Java, Spring Boot, Kafka, Microservices, PostgreSQL",
+          "Skills: Java, Spring Boot, Kafka, Microservices, PostgreSQL, Docker"
+        ],
+        "reasoning": "Semantic similarity: 62.1%, Keyword match: 3/19 critical skills (Java, Kafka, Microservices)"
+      },
+      {
+        "candidate_name": "Deepak Yadav",
+        "resume_path": "resumes/deepak_yadav.txt",
+        "education": "B.E. Computer Engineering, Pune University, 2014",
+        "experience_years": 4,
+        "match_score": 47.92,
+        "matched_skills": [
+          "Java",
+          "Kafka",
+          "Microservices"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nBackend Developer at Infosys (2015-2019) - 4 years\nLead Backend Developer at TCS (2019-2024) - 5 years\nWorked on Java, Spring Boot, Kafka, Redis, Microservices",
+          "Skills: Java, Spring Boot, Kafka, Redis, Microservices, PostgreSQL"
+        ],
+        "reasoning": "Semantic similarity: 61.7%, Keyword match: 3/19 critical skills (Java, Kafka, Microservices)"
+      },
+      {
+        "candidate_name": "Rohit Agarwal",
+        "resume_path": "resumes/rohit_agarwal.txt",
+        "education": "B.E. Computer Science, Anna University, 2015",
+        "experience_years": 3,
+        "match_score": 47.29,
+        "matched_skills": [
+          "Java",
+          "Spring",
+          "Microservices"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nJava Developer at TCS (2016-2019) - 3 years\nSenior Java Developer at Wipro (2019-2024) - 5 years\nWorked on Java, Spring, Hibernate, Microservices"
+        ],
+        "reasoning": "Semantic similarity: 60.8%, Keyword match: 3/19 critical skills (Java, Spring, Microservices)"
+      },
+      {
+        "candidate_name": "Aditya Pillai",
+        "resume_path": "resumes/aditya_pillai.txt",
+        "education": "M.S. Computer Science, IIT Bombay, 2016",
+        "experience_years": 4,
+        "match_score": 43.65,
+        "matched_skills": [
+          "Java",
+          "Microservices"
+        ],
+        "relevant_excerpts": [
+          "Skills: Java, Microservices, System Design, AWS, Spring Boot, Kubernetes",
+          "Experience:\nSoftware Architect at Infosys (2017-2021) - 4 years\nPrincipal Engineer at Accenture (2021-2024) - 3 years\nWorked on Java, Microservices, System Design, AWS"
+        ],
+        "reasoning": "Semantic similarity: 57.8%, Keyword match: 2/19 critical skills (Java, Microservices)"
+      },
+      {
+        "candidate_name": "Aarti Khanna",
+        "resume_path": "resumes/aarti_khanna.txt",
+        "education": "M.Tech Software Engineering, PSG Coimbatore, 2017",
+        "experience_years": 3,
+        "match_score": 41.77,
+        "matched_skills": [
+          "Java"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nJava Developer at HCL (2018-2021) - 3 years\nSenior Java Developer at Cognizant (2021-2024) - 3 years\nWorked on Java, Spring Boot, Hibernate, MySQL"
+        ],
+        "reasoning": "Semantic similarity: 57.4%, Keyword match: 1/19 critical skills (Java)"
+      }
+    ]
+  },
+  "jd_frontend_react": {
+    "job_description": "Seeking a Frontend Developer skilled in React, JavaScript, and Node.js. Experience building full stack web applications with MongoDB is a plus.",
+    "top_matches": [
+      {
+        "candidate_name": "Rahul Verma",
+        "resume_path": "resumes/rahul_verma.txt",
+        "education": "B.Tech Information Technology, NIT Trichy, 2017",
+        "experience_years": 4,
+        "match_score": 52.09,
+        "matched_skills": [
+          "JavaScript",
+          "React",
+          "MongoDB"
+        ],
+        "relevant_excerpts": [
+          "Skills: JavaScript, React, Node.js, MongoDB, HTML, CSS",
+          "Experience:\nFrontend Developer at Zoho (2018-2022) - 4 years\nFull Stack Developer at Freshworks (2022-2024) - 2 years\nWorked on React, Node.js, JavaScript, MongoDB"
+        ],
+        "reasoning": "Semantic similarity: 66.8%, Keyword match: 3/17 critical skills (JavaScript, React, MongoDB)"
+      },
+      {
+        "candidate_name": "Pooja Nair",
+        "resume_path": "resumes/pooja_nair.txt",
+        "education": "M.Tech Computer Science, NIT Calicut, 2017",
+        "experience_years": 3,
+        "match_score": 51.43,
+        "matched_skills": [
+          "JavaScript",
+          "React",
+          "MongoDB"
+        ],
+        "relevant_excerpts": [
+          "Skills: JavaScript, React, Node.js, Express, MongoDB, TypeScript",
+          "Experience:\nFull Stack Developer at Mindtree (2018-2021) - 3 years\nSenior Full Stack Engineer at Publicis Sapient (2021-2024) - 3 years\nWorked on JavaScript, React, Node.js, Express, MongoDB"
+        ],
+        "reasoning": "Semantic similarity: 65.9%, Keyword match: 3/17 critical skills (JavaScript, React, MongoDB)"
+      },
+      {
+        "candidate_name": "Divya Menon",
+        "resume_path": "resumes/divya_menon.txt",
+        "education": "B.Tech Computer Science, Amrita University, 2018",
+        "experience_years": 3,
+        "match_score": 40.73,
+        "matched_skills": [
+          "React",
+          "JavaScript"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nFrontend Developer at Zoho (2019-2022) - 3 years\nSenior Frontend Engineer at Freshworks (2022-2024) - 2 years\nWorked on React, Vue.js, JavaScript, CSS, HTML",
+          "Skills: React, Vue.js, JavaScript, CSS, HTML, TypeScript"
+        ],
+        "reasoning": "Semantic similarity: 53.1%, Keyword match: 2/17 critical skills (React, JavaScript)"
+      },
+      {
+        "candidate_name": "Aman Tripathi",
+        "resume_path": "resumes/aman_tripathi.txt",
+        "education": "B.Tech Computer Science, NIT Warangal, 2017",
+        "experience_years": 3,
+        "match_score": 40.27,
+        "matched_skills": [
+          "React",
+          "JavaScript"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nFrontend Developer at Swiggy (2018-2021) - 3 years\nSenior Frontend Developer at Zomato (2021-2024) - 3 years\nWorked on React, Redux, JavaScript, TypeScript, CSS",
+          "Skills: React, Redux, JavaScript, TypeScript, CSS, HTML"
+        ],
+        "reasoning": "Semantic similarity: 52.5%, Keyword match: 2/17 critical skills (React, JavaScript)"
+      },
+      {
+        "candidate_name": "Karan Malhotra",
+        "resume_path": "resumes/karan_malhotra.txt",
+        "education": "B.E. Computer Engineering, Mumbai University, 2013",
+        "experience_years": 4,
+        "match_score": 33.73,
+        "matched_skills": [],
+        "relevant_excerpts": [
+          "Experience:\nBackend Developer at Persistent Systems (2014-2018) - 4 years\nLead Backend Engineer at Oracle (2018-2024) - 6 years\nWorked on Java, Spring Boot, Kafka, Microservices, PostgreSQL"
+        ],
+        "reasoning": "Semantic similarity: 48.2%, Keyword match: 0/17 critical skills (none)"
+      },
+      {
+        "candidate_name": "John Doe",
+        "resume_path": "resumes/john_doe.txt",
+        "education": "B.Tech Computer Science, IIT Delhi, 2018",
+        "experience_years": 4,
+        "match_score": 32.9,
+        "matched_skills": [],
+        "relevant_excerpts": [
+          "Experience:\nSoftware Engineer at TCS (2019-2023) - 4 years\nWorked on Python, Machine Learning, Django, REST APIs"
+        ],
+        "reasoning": "Semantic similarity: 47.0%, Keyword match: 0/17 critical skills (none)"
+      }
+    ]
+  },
+  "jd_devops": {
+    "job_description": "Looking for a DevOps Engineer experienced with AWS, Kubernetes, Docker, and CI/CD pipelines. Terraform knowledge required. 4+ years of experience.",
+    "top_matches": [
+      {
+        "candidate_name": "Vikram Singh",
+        "resume_path": "resumes/vikram_singh.txt",
+        "education": "B.Tech Electronics, DTU Delhi, 2014",
+        "experience_years": 4,
+        "match_score": 51.43,
+        "matched_skills": [
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Terraform"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nDevOps Engineer at HCL (2015-2019) - 4 years\nSenior DevOps Engineer at IBM (2019-2024) - 5 years\nWorked on AWS, Kubernetes, Docker, CI/CD, Terraform",
+          "Skills: AWS, Kubernetes, Docker, Terraform, Python, CI/CD"
+        ],
+        "reasoning": "Semantic similarity: 62.8%, Keyword match: 4/16 critical skills (AWS, Kubernetes, Docker, Terraform)"
+      },
+      {
+        "candidate_name": "Sanjay Rao",
+        "resume_path": "resumes/sanjay_rao.txt",
+        "education": "B.Tech Information Technology, SRM University, 2016",
+        "experience_years": 3,
+        "match_score": 50.14,
+        "matched_skills": [
+          "Kubernetes",
+          "Docker",
+          "AWS",
+          "Terraform"
+        ],
+        "relevant_excerpts": [
+          "Skills: Kubernetes, Docker, Jenkins, AWS, Python, Terraform",
+          "Experience:\nDevOps Engineer at Mphasis (2017-2020) - 3 years\nSenior Site Reliability Engineer at Zoho (2020-2024) - 4 years\nWorked on Kubernetes, Docker, Jenkins, AWS, Python"
+        ],
+        "reasoning": "Semantic similarity: 60.9%, Keyword match: 4/16 critical skills (Kubernetes, Docker, AWS, Terraform)"
+      },
+      {
+        "candidate_name": "Kavita Joshi",
+        "resume_path": "resumes/kavita_joshi.txt",
+        "education": "M.Tech Cloud Computing, BITS Pilani, 2018",
+        "experience_years": 3,
+        "match_score": 49.43,
+        "matched_skills": [
+          "AWS",
+          "Terraform",
+          "Kubernetes",
+          "Docker"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nCloud Engineer at Tech Mahindra (2019-2022) - 3 years\nSenior Cloud Architect at Cognizant (2022-2024) - 2 years\nWorked on AWS, Azure, Terraform, Kubernetes",
+          "Skills: AWS, Azure, Terraform, Kubernetes, Docker, Python"
+        ],
+        "reasoning": "Semantic similarity: 59.9%, Keyword match: 4/16 critical skills (AWS, Terraform, Kubernetes, Docker)"
+      },
+      {
+        "candidate_name": "Siddharth Rao",
+        "resume_path": "resumes/siddharth_rao.txt",
+        "education": "B.E. Information Science, RV College Bangalore, 2015",
+        "experience_years": 4,
+        "match_score": 44.02,
+        "matched_skills": [
+          "Kubernetes",
+          "AWS",
+          "Terraform"
+        ],
+        "relevant_excerpts": [
+          "Skills: Kubernetes, Prometheus, Grafana, AWS, Python, Terraform",
+          "Experience:\nSite Reliability Engineer at Myntra (2016-2020) - 4 years\nSenior SRE at Ola (2020-2024) - 4 years\nWorked on Kubernetes, Prometheus, Grafana, AWS, Python"
+        ],
+        "reasoning": "Semantic similarity: 54.9%, Keyword match: 3/16 critical skills (Kubernetes, AWS, Terraform)"
+      },
+      {
+        "candidate_name": "Aditya Pillai",
+        "resume_path": "resumes/aditya_pillai.txt",
+        "education": "M.S. Computer Science, IIT Bombay, 2016",
+        "experience_years": 4,
+        "match_score": 39.74,
+        "matched_skills": [
+          "AWS",
+          "Kubernetes"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nSoftware Architect at Infosys (2017-2021) - 4 years\nPrincipal Engineer at Accenture (2021-2024) - 3 years\nWorked on Java, Microservices, System Design, AWS",
+          "Skills: Java, Microservices, System Design, AWS, Spring Boot, Kubernetes"
+        ],
+        "reasoning": "Semantic similarity: 51.4%, Keyword match: 2/16 critical skills (AWS, Kubernetes)"
+      }
+    ]
+  },
+  "jd_data_scientist": {
+    "job_description": "Hiring a Data Scientist with strong Python, Scikit-learn, and Machine Learning skills. Experience with statistics and building ML pipelines is essential.",
+    "top_matches": [
+      {
+        "candidate_name": "Sneha Reddy",
+        "resume_path": "resumes/sneha_reddy.txt",
+        "education": "M.Tech Machine Learning, IIIT Hyderabad, 2019",
+        "experience_years": 4,
+        "match_score": 46.95,
+        "matched_skills": [
+          "Python",
+          "Statistics"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nData Scientist at Amazon (2019-2023) - 4 years\nLead Data Scientist at Flipkart (2023-2024) - 1 year\nWorked on Python, TensorFlow, Scikit-learn, ML pipelines",
+          "Skills: Python, TensorFlow, Scikit-learn, Machine Learning, Statistics, SQL"
+        ],
+        "reasoning": "Semantic similarity: 62.6%, Keyword match: 2/19 critical skills (Python, Statistics)"
+      },
+      {
+        "candidate_name": "Neha Kapoor",
+        "resume_path": "resumes/neha_kapoor.txt",
+        "education": "M.Sc. Statistics, ISI Kolkata, 2019",
+        "experience_years": 3,
+        "match_score": 45.2,
+        "matched_skills": [
+          "Python",
+          "Statistics"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nData Analyst at Deloitte (2019-2022) - 3 years\nSenior Data Scientist at EY (2022-2024) - 2 years\nWorked on Python, R, Statistics, Machine Learning",
+          "Skills: Python, R, Statistics, Machine Learning, SQL, Tableau"
+        ],
+        "reasoning": "Semantic similarity: 60.1%, Keyword match: 2/19 critical skills (Python, Statistics)"
+      },
+      {
+        "candidate_name": "Jane Smith",
+        "resume_path": "resumes/jane_smith.txt",
+        "education": "M.Tech Data Science, IIT Bombay, 2020",
+        "experience_years": 4,
+        "match_score": 44.85,
+        "matched_skills": [
+          "Python",
+          "Statistics"
+        ],
+        "relevant_excerpts": [
+          "Skills: Python, TensorFlow, PyTorch, Machine Learning, Statistics"
+        ],
+        "reasoning": "Semantic similarity: 59.6%, Keyword match: 2/19 critical skills (Python, Statistics)"
+      },
+      {
+        "candidate_name": "Riya Chatterjee",
+        "resume_path": "resumes/riya_chatterjee.txt",
+        "education": "M.Tech Data Science, IIT Guwahati, 2020",
+        "experience_years": 3,
+        "match_score": 42.15,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Skills: Python, TensorFlow, Deep Learning, Machine Learning, SQL, Spark",
+          "Experience:\nData Scientist at Myntra (2020-2023) - 3 years\nSenior Data Scientist at Nykaa (2023-2024) - 1 year\nWorked on Python, TensorFlow, Deep Learning, Recommendation Systems"
+        ],
+        "reasoning": "Semantic similarity: 58.0%, Keyword match: 1/19 critical skills (Python)"
+      },
+      {
+        "candidate_name": "Nikhil Bansal",
+        "resume_path": "resumes/nikhil_bansal.txt",
+        "education": "B.Tech Computer Science, MNIT Jaipur, 2018",
+        "experience_years": 3,
+        "match_score": 41.83,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Skills: Python, Scikit-learn, XGBoost, Machine Learning, SQL, AWS",
+          "Experience:\nMachine Learning Engineer at Ola (2019-2022) - 3 years\nSenior ML Engineer at Uber (2022-2024) - 2 years\nWorked on Python, Scikit-learn, XGBoost, Machine Learning"
+        ],
+        "reasoning": "Semantic similarity: 57.5%, Keyword match: 1/19 critical skills (Python)"
+      },
+      {
+        "candidate_name": "Isha Bhatt",
+        "resume_path": "resumes/isha_bhatt.txt",
+        "education": "M.Tech Data Science, IIT Kharagpur, 2020",
+        "experience_years": 3,
+        "match_score": 41.52,
+        "matched_skills": [
+          "Python"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nData Engineer at Flipkart (2020-2023) - 3 years\nSenior Data Engineer at Swiggy (2023-2024) - 1 year\nWorked on Python, Spark, Airflow, SQL, ETL Pipelines"
+        ],
+        "reasoning": "Semantic similarity: 57.1%, Keyword match: 1/19 critical skills (Python)"
+      }
+    ]
+  },
+  "jd_nlp_researcher": {
+    "job_description": "Seeking an AI Research Engineer specializing in NLP and Transformers. PyTorch experience and knowledge of LLMs required.",
+    "top_matches": [
+      {
+        "candidate_name": "Priya Sharma",
+        "resume_path": "resumes/priya_sharma.txt",
+        "education": "M.Sc. Artificial Intelligence, IISc Bangalore, 2021",
+        "experience_years": 3,
+        "match_score": 52.69,
+        "matched_skills": [
+          "PyTorch",
+          "NLP",
+          "Transformers"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nAI Research Engineer at Google (2021-2024) - 3 years\nWorked on NLP, Transformers, PyTorch, LLMs",
+          "Skills: Python, PyTorch, NLP, Transformers, Machine Learning, Deep Learning"
+        ],
+        "reasoning": "Semantic similarity: 65.4%, Keyword match: 3/13 critical skills (PyTorch, NLP, Transformers)"
+      },
+      {
+        "candidate_name": "Meera Iyer",
+        "resume_path": "resumes/meera_iyer.txt",
+        "education": "M.Tech Computer Science, IIT Kanpur, 2019",
+        "experience_years": 4,
+        "match_score": 44.87,
+        "matched_skills": [
+          "NLP",
+          "Transformers",
+          "PyTorch"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nNLP Engineer at Amazon (2019-2023) - 4 years\nSenior NLP Scientist at Adobe (2023-2024) - 1 year\nWorked on Python, NLP, Transformers, spaCy, BERT",
+          "Skills: Python, NLP, Transformers, spaCy, BERT, PyTorch"
+        ],
+        "reasoning": "Semantic similarity: 54.2%, Keyword match: 3/13 critical skills (NLP, Transformers, PyTorch)"
+      },
+      {
+        "candidate_name": "Shreya Pandey",
+        "resume_path": "resumes/shreya_pandey.txt",
+        "education": "M.Tech Artificial Intelligence, IIT Hyderabad, 2021",
+        "experience_years": 3,
+        "match_score": 42.38,
+        "matched_skills": [
+          "LLMs",
+          "PyTorch"
+        ],
+        "relevant_excerpts": [
+          "Experience:\nAI Engineer at Google (2021-2024) - 3 years\nWorked on Python, LangChain, LLMs, RAG Systems, Vector Databases",
+          "Skills: Python, LangChain, LLMs, RAG, Vector Databases, PyTorch"
+        ],
+        "reasoning": "Semantic similarity: 53.9%, Keyword match: 2/13 critical skills (LLMs, PyTorch)"
+      },
+      {
+        "candidate_name": "Jane Smith",
+        "resume_path": "resumes/jane_smith.txt",
+        "education": "M.Tech Data Science, IIT Bombay, 2020",
+        "experience_years": 4,
+        "match_score": 38.12,
+        "matched_skills": [
+          "PyTorch"
+        ],
+        "relevant_excerpts": [
+          "Skills: Python, TensorFlow, PyTorch, Machine Learning, Statistics",
+          "Experience:\nData Scientist at Infosys (2020-2024) - 4 years\nBuilt ML models, worked with TensorFlow, PyTorch"
+        ],
+        "reasoning": "Semantic similarity: 51.2%, Keyword match: 1/13 critical skills (PyTorch)"
+      },
+      {
+        "candidate_name": "Anjali Desai",
+        "resume_path": "resumes/anjali_desai.txt",
+        "education": "M.Tech Artificial Intelligence, IIT Madras, 2020",
+        "experience_years": 4,
+        "match_score": 37.56,
+        "matched_skills": [
+          "PyTorch"
+        ],
+        "relevant_excerpts": [
+          "Skills: Python, TensorFlow, Computer Vision, Deep Learning, OpenCV, PyTorch",
+          "Experience:\nMachine Learning Engineer at Microsoft (2020-2024) - 4 years\nWorked on Python, TensorFlow, Computer Vision, Deep Learning"
+        ],
+        "reasoning": "Semantic similarity: 50.4%, Keyword match: 1/13 critical skills (PyTorch)"
+      }
+    ]
+  }
+}

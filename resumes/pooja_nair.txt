@@ -1,0 +1,10 @@
+
+Name: Pooja Nair
+Education: M.Tech Computer Science, NIT Calicut, 2017
+
+Experience:
+Full Stack Developer at Mindtree (2018-2021) - 3 years
+Senior Full Stack Engineer at Publicis Sapient (2021-2024) - 3 years
+Worked on JavaScript, React, Node.js, Express, MongoDB
+
+Skills: JavaScript, React, Node.js, Express, MongoDB, TypeScript

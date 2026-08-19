@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "job_description": "jd_ml_engineer",
+      "top_5_retrieved": [
+        "Anjali Desai",
+        "Nikhil Bansal",
+        "Riya Chatterjee",
+        "Shreya Pandey",
+        "Sneha Reddy"
+      ],
+      "correct_matches": [
+        "Anjali Desai",
+        "Nikhil Bansal",
+        "Riya Chatterjee"
+      ],
+      "precision_at_5": 0.6,
+      "recall": 0.75
+    },
+    {
+      "job_description": "jd_backend_java",
+      "top_5_retrieved": [
+        "Amit Kumar",
+        "Karan Malhotra",
+        "Deepak Yadav",
+        "Rohit Agarwal",
+        "Aditya Pillai"
+      ],
+      "correct_matches": [
+        "Amit Kumar",
+        "Karan Malhotra",
+        "Deepak Yadav",
+        "Rohit Agarwal",
+        "Aditya Pillai"
+      ],
+      "precision_at_5": 1.0,
+      "recall": 0.83
+    },
+    {
+      "job_description": "jd_frontend_react",
+      "top_5_retrieved": [
+        "Rahul Verma",
+        "Pooja Nair",
+        "Divya Menon",
+        "Aman Tripathi",
+        "Karan Malhotra"
+      ],
+      "correct_matches": [
+        "Rahul Verma",
+        "Pooja Nair",
+        "Divya Menon",
+        "Aman Tripathi"
+      ],
+      "precision_at_5": 0.8,
+      "recall": 1.0
+    },
+    {
+      "job_description": "jd_devops",
+      "top_5_retrieved": [
+        "Vikram Singh",
+        "Sanjay Rao",
+        "Kavita Joshi",
+        "Siddharth Rao",
+        "Aditya Pillai"
+      ],
+      "correct_matches": [
+        "Vikram Singh",
+        "Sanjay Rao",
+        "Kavita Joshi",
+        "Siddharth Rao"
+      ],
+      "precision_at_5": 0.8,
+      "recall": 1.0
+    },
+    {
+      "job_description": "jd_data_scientist",
+      "top_5_retrieved": [
+        "Sneha Reddy",
+        "Neha Kapoor",
+        "Jane Smith",
+        "Riya Chatterjee",
+        "Nikhil Bansal"
+      ],
+      "correct_matches": [
+        "Sneha Reddy",
+        "Neha Kapoor",
+        "Riya Chatterjee"
+      ],
+      "precision_at_5": 0.6,
+      "recall": 0.75
+    },
+    {
+      "job_description": "jd_nlp_researcher",
+      "top_5_retrieved": [
+        "Priya Sharma",
+        "Meera Iyer",
+        "Shreya Pandey",
+        "Jane Smith",
+        "Anjali Desai"
+      ],
+      "correct_matches": [
+        "Priya Sharma",
+        "Meera Iyer",
+        "Shreya Pandey"
+      ],
+      "precision_at_5": 0.6,
+      "recall": 1.0
+    }
+  ],
+  "avg_precision_at_5": 0.7333333333333334,
+  "avg_recall": 0.8883333333333333
+}

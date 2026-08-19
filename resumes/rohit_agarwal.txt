@@ -1,0 +1,10 @@
+
+Name: Rohit Agarwal
+Education: B.E. Computer Science, Anna University, 2015
+
+Experience:
+Java Developer at TCS (2016-2019) - 3 years
+Senior Java Developer at Wipro (2019-2024) - 5 years
+Worked on Java, Spring, Hibernate, Microservices
+
+Skills: Java, Spring, Hibernate, Microservices, SQL, REST APIs

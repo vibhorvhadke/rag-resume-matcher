@@ -1,0 +1,10 @@
+
+Name: Sneha Reddy
+Education: M.Tech Machine Learning, IIIT Hyderabad, 2019
+
+Experience:
+Data Scientist at Amazon (2019-2023) - 4 years
+Lead Data Scientist at Flipkart (2023-2024) - 1 year
+Worked on Python, TensorFlow, Scikit-learn, ML pipelines
+
+Skills: Python, TensorFlow, Scikit-learn, Machine Learning, Statistics, SQL

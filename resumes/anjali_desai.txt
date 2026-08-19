@@ -1,0 +1,9 @@
+
+Name: Anjali Desai
+Education: M.Tech Artificial Intelligence, IIT Madras, 2020
+
+Experience:
+Machine Learning Engineer at Microsoft (2020-2024) - 4 years
+Worked on Python, TensorFlow, Computer Vision, Deep Learning
+
+Skills: Python, TensorFlow, Computer Vision, Deep Learning, OpenCV, PyTorch

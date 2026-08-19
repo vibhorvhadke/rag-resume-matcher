@@ -1,0 +1,10 @@
+
+Name: Amit Kumar
+Education: B.E. Computer Engineering, Pune University, 2015
+
+Experience:
+Backend Developer at Wipro (2016-2020) - 4 years
+Senior Backend Developer at Accenture (2020-2024) - 4 years
+Worked on Java, Spring Boot, Microservices, Kafka
+
+Skills: Java, Spring Boot, Microservices, Kafka, SQL, Docker

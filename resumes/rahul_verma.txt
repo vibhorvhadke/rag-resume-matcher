@@ -1,0 +1,10 @@
+
+Name: Rahul Verma
+Education: B.Tech Information Technology, NIT Trichy, 2017
+
+Experience:
+Frontend Developer at Zoho (2018-2022) - 4 years
+Full Stack Developer at Freshworks (2022-2024) - 2 years
+Worked on React, Node.js, JavaScript, MongoDB
+
+Skills: JavaScript, React, Node.js, MongoDB, HTML, CSS

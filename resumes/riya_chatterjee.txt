@@ -1,0 +1,10 @@
+
+Name: Riya Chatterjee
+Education: M.Tech Data Science, IIT Guwahati, 2020
+
+Experience:
+Data Scientist at Myntra (2020-2023) - 3 years
+Senior Data Scientist at Nykaa (2023-2024) - 1 year
+Worked on Python, TensorFlow, Deep Learning, Recommendation Systems
+
+Skills: Python, TensorFlow, Deep Learning, Machine Learning, SQL, Spark

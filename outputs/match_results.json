@@ -1,0 +1,38 @@
+{
+  "job_description": "Looking for a Machine Learning Engineer with Python and TensorFlow experience",
+  "top_matches": [
+    {
+      "candidate_name": "Jane Smith",
+      "resume_path": "resumes/jane_smith.txt",
+      "match_score": 46.56,
+      "matched_skills": [
+        "Python",
+        "TensorFlow",
+        "Machine Learning"
+      ],
+      "relevant_excerpts": [
+        "Skills: Python, TensorFlow, PyTorch, Machine Learning, Statistics",
+        "Experience:\nData Scientist at Infosys (2020-2024) - 4 years\nBuilt ML models, worked with TensorFlow, PyTorch",
+        "Education: M.Tech Data Science, IIT Bombay, 2020",
+        "Name: Jane Smith"
+      ],
+      "reasoning": "Matched on 4 section(s): Skills, Experience, Education, Name"
+    },
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/john_doe.txt",
+      "match_score": 45.36,
+      "matched_skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "relevant_excerpts": [
+        "Experience:\nSoftware Engineer at TCS (2019-2023) - 4 years\nWorked on Python, Machine Learning, Django, REST APIs",
+        "Skills: Python, Machine Learning, SQL, Django, Git",
+        "Education: B.Tech Computer Science, IIT Delhi, 2018",
+        "Name: John Doe"
+      ],
+      "reasoning": "Matched on 4 section(s): Experience, Skills, Education, Name"
+    }
+  ]
+}

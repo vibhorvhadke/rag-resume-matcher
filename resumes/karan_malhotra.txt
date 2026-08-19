@@ -1,0 +1,10 @@
+
+Name: Karan Malhotra
+Education: B.E. Computer Engineering, Mumbai University, 2013
+
+Experience:
+Backend Developer at Persistent Systems (2014-2018) - 4 years
+Lead Backend Engineer at Oracle (2018-2024) - 6 years
+Worked on Java, Spring Boot, Kafka, Microservices, PostgreSQL
+
+Skills: Java, Spring Boot, Kafka, Microservices, PostgreSQL, Docker

@@ -1,0 +1,10 @@
+
+Name: Varun Chopra
+Education: B.Tech Computer Science, DTU Delhi, 2017
+
+Experience:
+Mobile App Developer at Paytm (2018-2021) - 3 years
+Senior Android Developer at PhonePe (2021-2024) - 3 years
+Worked on Kotlin, Java, Android SDK, Firebase
+
+Skills: Kotlin, Java, Android SDK, Firebase, REST APIs, MVVM

@@ -1,0 +1,10 @@
+
+Name: Aman Tripathi
+Education: B.Tech Computer Science, NIT Warangal, 2017
+
+Experience:
+Frontend Developer at Swiggy (2018-2021) - 3 years
+Senior Frontend Developer at Zomato (2021-2024) - 3 years
+Worked on React, Redux, JavaScript, TypeScript, CSS
+
+Skills: React, Redux, JavaScript, TypeScript, CSS, HTML

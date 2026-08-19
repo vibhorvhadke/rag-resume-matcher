@@ -1,0 +1,10 @@
+
+Name: Neha Kapoor
+Education: M.Sc. Statistics, ISI Kolkata, 2019
+
+Experience:
+Data Analyst at Deloitte (2019-2022) - 3 years
+Senior Data Scientist at EY (2022-2024) - 2 years
+Worked on Python, R, Statistics, Machine Learning
+
+Skills: Python, R, Statistics, Machine Learning, SQL, Tableau

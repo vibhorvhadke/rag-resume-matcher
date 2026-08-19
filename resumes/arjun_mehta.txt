@@ -1,0 +1,10 @@
+
+Name: Arjun Mehta
+Education: B.Tech Computer Science, VIT Vellore, 2016
+
+Experience:
+QA Engineer at Cognizant (2017-2020) - 3 years
+Senior QA Automation Engineer at Capgemini (2020-2024) - 4 years
+Worked on Selenium, Java, TestNG, API Testing
+
+Skills: Selenium, Java, TestNG, API Testing, Python, Cypress

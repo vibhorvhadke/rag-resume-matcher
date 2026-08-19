@@ -1,0 +1,10 @@
+
+Name: Manish Gupta
+Education: B.Tech Electronics and Communication, IIT Roorkee, 2014
+
+Experience:
+Embedded Systems Engineer at Bosch (2015-2019) - 4 years
+Senior Firmware Engineer at Continental (2019-2024) - 5 years
+Worked on C, C++, Embedded Linux, RTOS
+
+Skills: C, C++, Embedded Linux, RTOS, Python, Microcontrollers

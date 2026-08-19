@@ -1,0 +1,10 @@
+
+Name: Nikhil Bansal
+Education: B.Tech Computer Science, MNIT Jaipur, 2018
+
+Experience:
+Machine Learning Engineer at Ola (2019-2022) - 3 years
+Senior ML Engineer at Uber (2022-2024) - 2 years
+Worked on Python, Scikit-learn, XGBoost, Machine Learning
+
+Skills: Python, Scikit-learn, XGBoost, Machine Learning, SQL, AWS

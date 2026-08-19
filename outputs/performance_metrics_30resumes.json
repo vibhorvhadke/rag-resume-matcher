@@ -1,0 +1,71 @@
+{
+  "metrics": [
+    {
+      "job_description": "jd_ml_engineer",
+      "latency_seconds": 0.1426,
+      "top_5_candidates": [
+        "Anjali Desai",
+        "Nikhil Bansal",
+        "Riya Chatterjee",
+        "Shreya Pandey",
+        "Sneha Reddy"
+      ]
+    },
+    {
+      "job_description": "jd_backend_java",
+      "latency_seconds": 0.1363,
+      "top_5_candidates": [
+        "Amit Kumar",
+        "Karan Malhotra",
+        "Deepak Yadav",
+        "Rohit Agarwal",
+        "Aditya Pillai"
+      ]
+    },
+    {
+      "job_description": "jd_frontend_react",
+      "latency_seconds": 0.0448,
+      "top_5_candidates": [
+        "Rahul Verma",
+        "Pooja Nair",
+        "Divya Menon",
+        "Aman Tripathi",
+        "Karan Malhotra"
+      ]
+    },
+    {
+      "job_description": "jd_devops",
+      "latency_seconds": 0.1184,
+      "top_5_candidates": [
+        "Vikram Singh",
+        "Sanjay Rao",
+        "Kavita Joshi",
+        "Siddharth Rao",
+        "Aditya Pillai"
+      ]
+    },
+    {
+      "job_description": "jd_data_scientist",
+      "latency_seconds": 0.1514,
+      "top_5_candidates": [
+        "Sneha Reddy",
+        "Neha Kapoor",
+        "Jane Smith",
+        "Riya Chatterjee",
+        "Nikhil Bansal"
+      ]
+    },
+    {
+      "job_description": "jd_nlp_researcher",
+      "latency_seconds": 0.0901,
+      "top_5_candidates": [
+        "Priya Sharma",
+        "Meera Iyer",
+        "Shreya Pandey",
+        "Jane Smith",
+        "Anjali Desai"
+      ]
+    }
+  ],
+  "avg_latency": 0.11393333333333333
+}

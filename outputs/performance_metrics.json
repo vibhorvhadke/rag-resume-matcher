@@ -1,0 +1,48 @@
+{
+  "metrics": [
+    {
+      "job_description": "jd_ml_engineer",
+      "latency_seconds": 0.0311,
+      "top_candidate": "Sneha Reddy",
+      "expected_candidate": "Priya Sharma",
+      "correct_in_top3": false
+    },
+    {
+      "job_description": "jd_backend_java",
+      "latency_seconds": 0.0296,
+      "top_candidate": "Amit Kumar",
+      "expected_candidate": "Amit Kumar",
+      "correct_in_top3": true
+    },
+    {
+      "job_description": "jd_frontend_react",
+      "latency_seconds": 0.0294,
+      "top_candidate": "Rahul Verma",
+      "expected_candidate": "Rahul Verma",
+      "correct_in_top3": true
+    },
+    {
+      "job_description": "jd_devops",
+      "latency_seconds": 0.0309,
+      "top_candidate": "Vikram Singh",
+      "expected_candidate": "Vikram Singh",
+      "correct_in_top3": true
+    },
+    {
+      "job_description": "jd_data_scientist",
+      "latency_seconds": 0.0292,
+      "top_candidate": "Sneha Reddy",
+      "expected_candidate": "Sneha Reddy",
+      "correct_in_top3": true
+    },
+    {
+      "job_description": "jd_nlp_researcher",
+      "latency_seconds": 0.0267,
+      "top_candidate": "Priya Sharma",
+      "expected_candidate": "Priya Sharma",
+      "correct_in_top3": true
+    }
+  ],
+  "accuracy": 83.33333333333334,
+  "avg_latency": 0.029483333333333334
+}

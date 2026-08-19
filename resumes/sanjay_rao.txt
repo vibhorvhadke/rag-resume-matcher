@@ -1,0 +1,10 @@
+
+Name: Sanjay Rao
+Education: B.Tech Information Technology, SRM University, 2016
+
+Experience:
+DevOps Engineer at Mphasis (2017-2020) - 3 years
+Senior Site Reliability Engineer at Zoho (2020-2024) - 4 years
+Worked on Kubernetes, Docker, Jenkins, AWS, Python
+
+Skills: Kubernetes, Docker, Jenkins, AWS, Python, Terraform

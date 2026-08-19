@@ -1,0 +1,10 @@
+
+Name: Siddharth Rao
+Education: B.E. Information Science, RV College Bangalore, 2015
+
+Experience:
+Site Reliability Engineer at Myntra (2016-2020) - 4 years
+Senior SRE at Ola (2020-2024) - 4 years
+Worked on Kubernetes, Prometheus, Grafana, AWS, Python
+
+Skills: Kubernetes, Prometheus, Grafana, AWS, Python, Terraform

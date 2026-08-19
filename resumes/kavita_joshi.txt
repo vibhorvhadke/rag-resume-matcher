@@ -1,0 +1,10 @@
+
+Name: Kavita Joshi
+Education: M.Tech Cloud Computing, BITS Pilani, 2018
+
+Experience:
+Cloud Engineer at Tech Mahindra (2019-2022) - 3 years
+Senior Cloud Architect at Cognizant (2022-2024) - 2 years
+Worked on AWS, Azure, Terraform, Kubernetes
+
+Skills: AWS, Azure, Terraform, Kubernetes, Docker, Python

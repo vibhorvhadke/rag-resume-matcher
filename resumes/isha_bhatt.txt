@@ -1,0 +1,10 @@
+
+Name: Isha Bhatt
+Education: M.Tech Data Science, IIT Kharagpur, 2020
+
+Experience:
+Data Engineer at Flipkart (2020-2023) - 3 years
+Senior Data Engineer at Swiggy (2023-2024) - 1 year
+Worked on Python, Spark, Airflow, SQL, ETL Pipelines
+
+Skills: Python, Spark, Airflow, SQL, ETL, AWS

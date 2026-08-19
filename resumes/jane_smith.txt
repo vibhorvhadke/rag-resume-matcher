@@ -1,0 +1,9 @@
+
+Name: Jane Smith
+Education: M.Tech Data Science, IIT Bombay, 2020
+
+Experience:
+Data Scientist at Infosys (2020-2024) - 4 years
+Built ML models, worked with TensorFlow, PyTorch
+
+Skills: Python, TensorFlow, PyTorch, Machine Learning, Statistics

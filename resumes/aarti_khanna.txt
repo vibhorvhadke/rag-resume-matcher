@@ -1,0 +1,10 @@
+
+Name: Aarti Khanna
+Education: M.Tech Software Engineering, PSG Coimbatore, 2017
+
+Experience:
+Java Developer at HCL (2018-2021) - 3 years
+Senior Java Developer at Cognizant (2021-2024) - 3 years
+Worked on Java, Spring Boot, Hibernate, MySQL
+
+Skills: Java, Spring Boot, Hibernate, MySQL, REST APIs, Docker

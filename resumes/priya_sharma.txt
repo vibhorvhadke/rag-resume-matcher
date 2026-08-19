@@ -1,0 +1,9 @@
+
+Name: Priya Sharma
+Education: M.Sc. Artificial Intelligence, IISc Bangalore, 2021
+
+Experience:
+AI Research Engineer at Google (2021-2024) - 3 years
+Worked on NLP, Transformers, PyTorch, LLMs
+
+Skills: Python, PyTorch, NLP, Transformers, Machine Learning, Deep Learning

@@ -1,0 +1,10 @@
+
+Name: Tanya Saxena
+Education: M.Sc. Computer Science, Delhi University, 2018
+
+Experience:
+Business Analyst at Genpact (2019-2022) - 3 years
+Senior Product Analyst at Paytm (2022-2024) - 2 years
+Worked on SQL, Python, Tableau, Data Analysis
+
+Skills: SQL, Python, Tableau, Data Analysis, Excel, Power BI
